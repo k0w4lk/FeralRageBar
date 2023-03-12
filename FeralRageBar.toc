@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: FeralRageBar
+## Author: kowalk
+## Version: 1.0.0
+## SavedVariablesPerCharacter: BarPositionX, BarPositionY
+
+FeralRageBar.lua
